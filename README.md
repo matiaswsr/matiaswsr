@@ -1,2 +1,4 @@
-- 👋 Hi!
+👋 Hola!
+
+Practicando con Django/Python
 
