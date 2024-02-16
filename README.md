@@ -1,4 +1,4 @@
 👋 Hola!
 
-Practicando con Django/Python
+Practicando con Django/Python, Javascript...
 
